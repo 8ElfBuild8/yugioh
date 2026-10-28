@@ -21,21 +21,16 @@ div {
 }
 
 h1 {
-	width: 170px;
+	width: 150px;
 	height: 30px;
 	background-color: white;
 	box-shadow: 0px 4px 10px black;
-	padding: 10px 30px;
+	padding: 10px 20px;
 	justify-content: center;
 	display: flex;
 	align-items: center;
 	border-radius: 8px;
 	border: 2px solid black;
 
-	
 }
 
-h1:active {
-	transform: translateY(4px);
-
-}
