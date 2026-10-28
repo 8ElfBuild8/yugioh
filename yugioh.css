@@ -32,6 +32,7 @@ h1 {
 	border-radius: 8px;
 	border: 2px solid black;
     text-align: center;
+	font-size: 24px;
 }
 
 h1:active {
