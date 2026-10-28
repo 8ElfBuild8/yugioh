@@ -1,0 +1,44 @@
+html {
+	background-color: orange;
+	margin-left: 20%;
+	margin-right: 20%;
+	margin-top: 5%;
+	zoom: 125%;
+	align-items: center;
+}
+
+div {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.dragon {
+	width: 300px;
+	height: 400px;
+	border: 3px solid white;
+	box-shadow: 0px 4px 10px black;
+
+}
+
+h1 {
+	width: 100px;
+	height: 30px;
+	background-color: white;
+	box-shadow: 0px 4px 10px black;
+	padding: 10px 20px;
+	justify-content: center;
+	display: flex;
+	align-items: center;
+	border-radius: 8px;
+	border: 2px solid black;
+    text-align: center;
+	font-size: 24px;
+	margin: 5px;
+	margin-top: 15px;
+}
+
+h1:active {
+	transform: translateY(4px);
+
+}
