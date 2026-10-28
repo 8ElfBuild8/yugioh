@@ -9,7 +9,7 @@ html {
 div {
 	display: flex;
 	justify-content: center;
-	
+	align-items: center;
 }
 
 .dragon {
@@ -28,7 +28,7 @@ h1 {
 	padding: 10px 30px;
 	justify-content: center;
 	display: flex;
-	align-item: center;
+	align-items: center;
 	border-radius: 8px;
 	border: 2px solid black;
 
