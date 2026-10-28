@@ -42,3 +42,8 @@ h1:active {
 	transform: translateY(4px);
 
 }
+
+a {
+    color: black;
+    text-decoration: none;	
+}
