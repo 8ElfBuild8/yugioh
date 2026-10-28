@@ -3,7 +3,7 @@ html {
 	margin-left: 20%;
 	margin-right: 20%;
 	margin-top: 5%;
-	
+	zoom: 200%;
 }
 
 div {
@@ -31,6 +31,10 @@ h1 {
 	align-items: center;
 	border-radius: 8px;
 	border: 2px solid black;
-
+    text-align: center;
 }
 
+h1:active {
+	transform: translateY(4px);
+
+}
