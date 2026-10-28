@@ -1,0 +1,14 @@
+body {
+	animation: Transformation 0.7s;
+}
+
+
+
+@keyframes Transformation {
+    from {
+          opacity: 0
+    }
+    to {
+          opacity: 1
+    }
+}
