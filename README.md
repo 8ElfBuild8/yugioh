@@ -1,1 +1,1 @@
-<img src="bakura.jpg" width="100px" height="200px">
+<img src="bakura.jpg" width="300px" height="600px">
