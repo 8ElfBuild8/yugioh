@@ -1,7 +1,7 @@
 
 {
   
-  "short_name": "Tarot",
+  "short_name": "Yugioh",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
