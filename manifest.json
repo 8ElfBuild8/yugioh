@@ -9,16 +9,17 @@
   "theme_color": "#101820",
   "icons": [
     {
-      "src": "yami.jpg",
+      "src": "./yami.jpg",
       "sizes": "192x192",
       "type": "image/jpg",
       "purpose": "any"
     },
     {
-      "src": "jinzo.jpg",
+      "src": "./jinzo.jpg",
       "sizes": "512x512",
       "type": "image/jpg",
       "purpose": "any"
     }
   ]
 }
+
